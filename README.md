@@ -54,3 +54,8 @@ Algorithm: Spotify's algorithm plays a significant role in determining a song's 
 Cultural Relevance: Songs that resonate with current cultural moments or trends often gain popularity.
 
 Release Timing: The timing of a song's release can also impact its popularity. For example, holiday-themed songs tend to be more popular during certain times of the year.
+
+Upon reading the article that assessed the factors that make songs popular 
+While the article explores more features than we did, there is some overlap.
+For example, the article notes the influence of popular Artists on song requests and emphasizes the importance of genre with dance pop, rap, and hip hop being prevalent which is what is found as well in our visualizations. 
+GPT.4 response does not have as much overlap with our findings and the article's findings because it is pulling from a  wider range of information; the entire internet. The factors that GPT-4 states are much more vague and subjective while the factors that our findings and the article discuss are much more measurable.
