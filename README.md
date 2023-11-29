@@ -25,3 +25,32 @@ Each of the three visualizations depicts insights into the factors influencing s
 The second visualization is another bar graph comparing song popularity to the keys of certain songs. Each key is represented by a different color ordered from most popular to least popular. It is evident that songs in the C key are the most popular and songs in the D sharp (D#) are the least popular while many keys hover in the middle such as F, B, and E. This visualization is important when considering the factors that affect the popularity of songs as scale/key is a critical factor that could determine how popular a song will be.
 Our final visualization is a tree map that displays the popularity of artists. Visually representing the distribution of popularity across different artists allows us to find patterns and draw conclusions about what contributes to the success of certain songs. This visualization helps identify trends, such as whether specific artists consistently produce popular songs or if there are particular genres dominating in terms of popularity. Analyzing the tree map can shed light on the influence of an artist's reputation, musical style, and listener preferences.
 This contributes to an understanding of what elements make certain songs stand out and become more popular on Spotify. All three of our visualizations collectively answer the question: what factors make certain songs more popular than others on Spotify? Which outside of this project could be used in the real world for producers or artists who want to create music with factors that will lead to its popularity on Spotify.
+
+### Discusion and Summary 
+Our Article questions what factors make songs in Spotify popular. [LINK](https://medium.com/@sunsunvirojsirasak/what-are-factors-that-make-song-in-spotify-popular-3cdcb3fb3a10)
+
+This article explores the key factors influencing song popularity on Spotify, focusing on the 2019 "Top 50 Spotify Songs" dataset and using Power BI for visualization. Analyzing features like energy, danceability, loudness, valence, acousticness, and speechiness, the study suggests that songs with moderate energy (43-65) and danceability (64-84) are more likely to be popular. Loudness varies, but common levels are around -18 to -5 dB. Valence has minimal impact, while acousticness is best between 1 and 59. Less spoken words (lower speechiness) enhance a song's popularity.
+
+Average values for these features are provided to guide song creation. The article also notes the influence of popular artists like Ed Sheeran on song success, emphasizing the importance of genre, with dance pop, pop, latin, Canadian hip hop, and EDM being prevalent. In essence, the visualizations suggest that aspiring musicians should consider these factors for creating songs with a higher chance of reaching Spotify's Top 50.
+GPT Response:
+Several factors contribute to the popularity of a song on Spotify:
+
+Quality of the Song: The most important factor is the quality of the song itself. This includes the lyrics, melody, rhythm, and overall production quality.
+
+Artist's Popularity: If the artist is already popular, their songs are more likely to be popular as well.
+
+Promotion: How well the song is promoted can greatly affect its popularity. This includes promotion on social media, radio, TV, concerts, and other platforms.
+
+Playlists: Being included in popular playlists can increase a song's visibility and popularity.
+
+Collaborations: Songs that feature or are made in collaboration with other popular artists often gain more attention.
+
+Virality: If a song goes viral, for example through a challenge or trend on social media platforms like TikTok, it can quickly become popular.
+
+Listener's Feedback: Positive feedback and high engagement from listeners can boost a song's popularity. This includes likes, shares, and positive comments.
+
+Algorithm: Spotify's algorithm plays a significant role in determining a song's popularity. The algorithm takes into account factors like the number of times a song is played, skipped, saved, and added to playlists.
+
+Cultural Relevance: Songs that resonate with current cultural moments or trends often gain popularity.
+
+Release Timing: The timing of a song's release can also impact its popularity. For example, holiday-themed songs tend to be more popular during certain times of the year.
