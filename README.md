@@ -2,7 +2,7 @@
 Authors: Sasha Nainani, Marshall Tanz, and Karsen Williams
 
 ## Project Description
-[LINK](https://public.tableau.com/authoring/DVS_Final/Dashboard1#1)
+Link to Tablaeu Public Visualization App: [LINK](https://public.tableau.com/authoring/DVS_Final/Dashboard1#1)
 ### Question of Interest
 - What factors make certain songs more popular than others on Spotify?
 
